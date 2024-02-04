@@ -1,3 +1,5 @@
+We are [セカイソフト](https://sekaisoft.tech/) (pronounced `sekai-soft`)
+
 We envision a world where software, the web, and software company is more ethical.
 
 We hence build "ethical-ware" in the open here. Ethical-ware promotes longevity, user agency, and free flow of information.
