@@ -1,4 +1,4 @@
-We are [Sekaisoft](https://sekaisoft.tech/)
+We are [Sekaisoft](https://sekaisoft.tech/).
 
 We envision a world where software, the web, and software company is more ethical.
 
