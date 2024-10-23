@@ -10,9 +10,3 @@ Our software philosophy:
 - Build on existing standards, protocols and platforms.
 - Keep it simple and stupid.
 - Dog-food your own software.
-
-Some previous projects are located at [github.com/k-t-corp](https://github.com/k-t-corp)
-
-Notable project from there (didn't want to move repo because it will break `ghcr.io` image names)
-- [nitter-xposter](https://github.com/k-t-corp/nitter-xposter): crosspost from Twitter to Mastodon (based on Nitter)
-- [mastodon-patches](https://github.com/k-t-corp/mastodon-patches): patches for [mastodon.ktachibana.party](https://mastodon.ktachibana.party/home) (our Mastodon instance)
